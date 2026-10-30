@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/niimanabi",
  "yomi": "にいまなび",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "明和2年（1765）7月",
+  "author": "賀茂真淵（1697〜1769）",
+  "desc": "初学者に向けて、まず万葉集を学ぶよう説き、古今集の「たをやめ」の姿に対して万葉集の「ますらを」の手振りを尊んだ真淵の歌論。のちに香川景樹が『新学異見』で反論した。"
+ },
  "editions": [
   {
    "pid": "993379",
